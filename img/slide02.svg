@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="960"
+   height="700"
+   viewBox="0 0 960.00001 700.00001"
+   id="svg5293"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="slide02.svg">
+  <defs
+     id="defs5295" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-42.142857"
+     inkscape:cy="291.42857"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5298">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-352.36216)">
+    <g
+       id="g5458"
+       transform="matrix(0.89235035,0,0,0.89235035,53.779155,555.38867)">
+      <text
+         sodipodi:linespacing="125%"
+         id="text5366"
+         y="-136.02585"
+         x="45.317871"
+         style="font-style:normal;font-weight:normal;font-size:20.92927361px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-size:22.5px;fill:#cccccc;fill-opacity:0.49019608"
+           y="-136.02585"
+           x="45.317871"
+           id="tspan5368"
+           sodipodi:role="line">La <tspan
+   id="tspan5380"
+   style="font-size:22.5px;fill:#cccccc;fill-opacity:1">vista</tspan> es la salida que se muestra</tspan><tspan
+           style="font-size:22.5px;fill:#cccccc;fill-opacity:0.49019608"
+           id="tspan5370"
+           y="-107.90085"
+           x="45.317871"
+           sodipodi:role="line">al usuario. Lo más importante es que</tspan><tspan
+           style="font-size:22.5px;fill:#cccccc;fill-opacity:0.49019608"
+           id="tspan5372"
+           y="-79.775848"
+           x="45.317871"
+           sodipodi:role="line">nunca modificará los datos de la</tspan><tspan
+           style="font-size:22.5px;fill:#cccccc;fill-opacity:0.49019608"
+           id="tspan5376"
+           y="-51.650848"
+           x="45.317871"
+           sodipodi:role="line">aplicación; solo los mostrará. Las diferentes </tspan><tspan
+           style="font-size:22.5px;fill:#cccccc;fill-opacity:0.49019608"
+           id="tspan5378"
+           y="-23.525848"
+           x="45.317871"
+           sodipodi:role="line">vistas deben ser intercambiables sin </tspan><tspan
+           id="tspan5424"
+           style="font-size:22.5px;fill:#cccccc;fill-opacity:0.49019608"
+           y="4.5991516"
+           x="45.317871"
+           sodipodi:role="line">modificar otras capas.</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text5394"
+         y="82.317307"
+         x="909.95905"
+         style="font-style:normal;font-weight:normal;font-size:17.95620728px;line-height:125%;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#cccccc;fill-opacity:0.49019608;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-size:22.5px;text-align:end;text-anchor:end;fill:#cccccc;fill-opacity:0.49019608"
+           y="82.317307"
+           x="909.95905"
+           id="tspan5396"
+           sodipodi:role="line">El <tspan
+   id="tspan5406"
+   style="font-size:22.5px;text-align:end;text-anchor:end;fill:#cccccc;fill-opacity:1">modelo</tspan> representa la estructura</tspan><tspan
+           style="font-size:22.5px;text-align:end;text-anchor:end;fill:#cccccc;fill-opacity:0.49019608"
+           id="tspan5398"
+           y="110.44231"
+           x="909.95905"
+           sodipodi:role="line">de datos, con todas sus relaciones y</tspan><tspan
+           style="font-size:22.5px;text-align:end;text-anchor:end;fill:#cccccc;fill-opacity:0.49019608"
+           id="tspan5400"
+           y="138.56731"
+           x="909.95905"
+           sodipodi:role="line">dependencias. Desde aquí se manipulan</tspan><tspan
+           style="font-size:22.5px;text-align:end;text-anchor:end;fill:#cccccc;fill-opacity:0.49019608"
+           id="tspan5402"
+           y="166.69231"
+           x="909.95905"
+           sodipodi:role="line">los datos y es donde se encapsulan todas</tspan><tspan
+           style="font-size:22.5px;text-align:end;text-anchor:end;fill:#cccccc;fill-opacity:0.49019608"
+           id="tspan5404"
+           y="194.81731"
+           x="909.95905"
+           sodipodi:role="line">las conexiones a DB.</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text5426"
+         y="282.68686"
+         x="475.90143"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-size:22.5px;text-align:center;text-anchor:middle;fill:#cccccc;fill-opacity:0.49019608"
+           y="282.68686"
+           x="475.90143"
+           id="tspan5428"
+           sodipodi:role="line">El <tspan
+   id="tspan5444"
+   style="text-align:center;text-anchor:middle;fill:#cccccc;fill-opacity:1">controlador</tspan> es la parte de la aplicación</tspan><tspan
+           style="font-size:22.5px;text-align:center;text-anchor:middle;fill:#cccccc;fill-opacity:0.49019608"
+           id="tspan5430"
+           y="310.81186"
+           x="475.90143"
+           sodipodi:role="line">resposable de manejar las interacciones</tspan><tspan
+           style="font-size:22.5px;text-align:center;text-anchor:middle;fill:#cccccc;fill-opacity:0.49019608"
+           id="tspan5432"
+           y="338.93686"
+           x="475.90143"
+           sodipodi:role="line">del usuario y llevar acabo las demás tareas.</tspan><tspan
+           style="font-size:22.5px;text-align:center;text-anchor:middle;fill:#cccccc;fill-opacity:0.49019608"
+           id="tspan5434"
+           y="367.06186"
+           x="475.90143"
+           sodipodi:role="line">Es la parte que utiliza y gestiona los métodos</tspan><tspan
+           style="font-size:22.5px;text-align:center;text-anchor:middle;fill:#cccccc;fill-opacity:0.49019608"
+           id="tspan5436"
+           y="395.18686"
+           x="475.90143"
+           sodipodi:role="line">enviados por el modelo y la vista (recibiendo,</tspan><tspan
+           style="font-size:22.5px;text-align:center;text-anchor:middle;fill:#cccccc;fill-opacity:0.49019608"
+           y="423.31186"
+           x="475.90143"
+           sodipodi:role="line"
+           id="tspan5871">interpretando y validando inputs, creando y</tspan><tspan
+           style="font-size:22.5px;text-align:center;text-anchor:middle;fill:#cccccc;fill-opacity:0.49019608"
+           y="451.43686"
+           x="475.90143"
+           sodipodi:role="line"
+           id="tspan5873">actualizando vistas y llamando y modificando</tspan><tspan
+           style="font-size:22.5px;text-align:center;text-anchor:middle;fill:#cccccc;fill-opacity:0.49019608"
+           y="479.56186"
+           x="475.90143"
+           sodipodi:role="line"
+           id="tspan5875">modelos).</tspan></text>
+    </g>
+  </g>
+</svg>
